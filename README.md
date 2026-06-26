@@ -117,6 +117,8 @@ The notebook is organized into the following sections, in order:
 - Deeper dive into specific AI tool benefits (`AIBen`) rather than overall sentiment alone
 - Industry-level breakdowns of compensation and satisfaction
 
+## 📓 View the Notebook
+👉 [Open in Google Colab](https://colab.research.google.com/drive/1Ryz-OShVPHecskhwqYfuE41pU1NbcIfQ#scrollTo=557a0309)
 ---
 
 *This project was built as part of ongoing data analytics skill development, alongside SQL, Power BI, and Excel coursework, in preparation for Data Analyst roles.*
